@@ -9,7 +9,8 @@ Exemplos práticos para rodar no terminal com `node`.
     ├─ 01-escopo.js
     ├─ 02-tipos.js
     ├─ 03-operadores.js
-    └─ 04-event-loop.js
+    ├─ 04-event-loop.js
+    └─ atividade-aula02.js
 
 Cada arquivo é independente e pode ser executado sozinho.
 
@@ -29,6 +30,11 @@ Na pasta do projeto:
     node 02-tipos.js
     node 03-operadores.js
     node 04-event-loop.js
+    node atividade-aula02.js
+
+### Atividade da Aula
+
+O arquivo `atividade-aula02.js` consolida os conceitos de tipos primitivos, escopo, imutabilidade e assincronismo em um único exercício prático.
 
 ### Objetivo da aula
 
